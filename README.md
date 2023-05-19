@@ -9,8 +9,7 @@
 
 ## Overview
 
-Section:
-Wep App Section
+Omnifood landing page
 
 ### Screenshot
 
